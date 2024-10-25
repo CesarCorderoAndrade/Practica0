@@ -27,46 +27,46 @@ Para poner en negrita un texto, agregue dos asteriscos antes y después de una p
 Esto es **un** ejemplo.  
 
 Cursiva
-Para poner un texto en cursiva, agregue un asterisco antes y después de una palabra o frase.
-*Ejemplo*
+Para poner un texto en cursiva, agregue un asterisco antes y después de una palabra o frase.  
+*Ejemplo*  
 Esto es *un* ejemplo. 
 
-Negrita y cursiva
-agregue tres asteriscos.
-***Ejemplo***
-Esto es ***un*** ejemplo.  
+Negrita y cursiva  
+agregue tres asteriscos.  
+***Ejemplo***  
+Esto es ***un*** ejemplo.    
 
 
-Citas en bloque
-Para crear una cita en bloque, agregue una >antes de un párrafo.
->Ejemplo.
-Citas en bloque con varios párrafos
-Las citas en bloque pueden contener varios párrafos. Agregue una >en las líneas en blanco entre los párrafos.
->Ejemplo
->Ejemplo
->Ejemplo
+Citas en bloque  
+Para crear una cita en bloque, agregue una >antes de un párrafo.  
+>Ejemplo.  
+Citas en bloque con varios párrafos  
+Las citas en bloque pueden contener varios párrafos. Agregue una >en las líneas en blanco entre los párrafos.  
+>Ejemplo  
+>Ejemplo  
+>Ejemplo  
 
 
-Citas en bloque anidadas
-Las citas en bloque se pueden anidar. Agregue un signo >>antes del párrafo que desea anidar.
->>Ejemplo
+Citas en bloque anidadas  
+Las citas en bloque se pueden anidar. Agregue un signo >>antes del párrafo que desea anidar.  
+>>Ejemplo  
 >
->>Ejemplo
+>>Ejemplo  
 
-Podemos combinar todo lo visto hasta ahora.
->##Ejemplo
->
->-Ejemplo
->
->**Ejemplo** *ejemplo*
-
-
-Listas ordenadas
-Para crear una lista ordenada, agregue elementos de línea con números seguidos de puntos.  
+Podemos combinar todo lo visto hasta ahora.  
+>##Ejemplo  
+>  
+>-Ejemplo  
+>  
+>**Ejemplo** *ejemplo*  
 
 
-Listas desordenadas
-Para crear una lista desordenada, agregue guiones ( -), asteriscos ( *) o signos más ( +) delante de los elementos de línea. Aplique sangría a uno o más elementos para crear una lista anidada.  
+Listas ordenadas  
+Para crear una lista ordenada, agregue elementos de línea con números seguidos de puntos.   
+
+
+Listas desordenadas  
+Para crear una lista desordenada, agregue guiones ( -), asteriscos ( *) o signos más ( +) delante de los elementos de línea. Aplique sangría a uno o más elementos para crear una lista anidada.   
 Si necesita comenzar un elemento de lista desordenada con un número seguido de un punto, puede usar una barra invertida ( \) para escapar del punto.  
 
 Agregar elementos en listas

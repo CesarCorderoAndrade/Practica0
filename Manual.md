@@ -40,6 +40,8 @@ Esto es ***un*** ejemplo.
 Citas en bloque  
 Para crear una cita en bloque, agregue una >antes de un párrafo.  
 >Ejemplo.  
+
+
 Citas en bloque con varios párrafos  
 Las citas en bloque pueden contener varios párrafos. Agregue una >en las líneas en blanco entre los párrafos.  
 >Ejemplo  
@@ -80,7 +82,7 @@ Para insertar imágenes se pone ![nombre de la imagen](dirección de la imagen)
 Podemos poner el titulo entre comillas despues de la URL.
 
 
-![Pro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOI8Tcm49SjyeMvrB7J7QydOMvQ5MmKpRitg&s)  
+![Pro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOI8Tcm49SjyeMvrB7J7QydOMvQ5MmKpRitg&s"EL PRO")  
 
 
 Código

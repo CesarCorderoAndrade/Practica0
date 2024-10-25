@@ -82,7 +82,7 @@ Para insertar imágenes se pone ![nombre de la imagen](dirección de la imagen)
 Podemos poner el titulo entre comillas despues de la URL.
 
 
-![Pro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOI8Tcm49SjyeMvrB7J7QydOMvQ5MmKpRitg&s"EL PRO")  
+![Pro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOI8Tcm49SjyeMvrB7J7QydOMvQ5MmKpRitg&s "EL PRO")  
 
 
 Código
